@@ -1,0 +1,49 @@
+
+* {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.container h1 {
+    font-size: 5rem;
+
+    font-weight: bold;
+ }
+
+button{
+    margin-left: 3px;
+}
+
+.card{
+    margin: 2rem 0;
+    padding: 1.5rem;
+}
+
+.day{
+    padding: 1rem;
+}
+/*
+.container {
+    max-width: 768px;
+    margin: 0 auto;
+}
+
+body {
+    background-color: rgba(51, 51, 51, 255);
+    padding: 1rem;
+    color: white;
+}
+
+
+
+hr {
+    border: .1px rgb(110, 110, 110) solid;
+    margin: 3rem 0;
+}
+
+.card {
+    border: none;
+    border-radius: 15px;
+    padding: 1rem 2rem;
+    box-shadow: 5px 5px 40px #101010, -5px -5px 40px #575757;
+}
+*/
